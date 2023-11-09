@@ -12,7 +12,7 @@ Ever wanted to send the APOD to your Discord server ? Juste use this to send eve
 ## How To
 
 1. Clone this repo
-2. [Edit config.js](#config.js)
+2. [Edit config.js](#configjs)
 3. Launch the app `npm start`
 
 ---
