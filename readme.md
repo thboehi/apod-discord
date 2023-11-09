@@ -1,4 +1,4 @@
-# <a href="https://apod.nasa.gov/apod/astropix.html" target="_blank">NASA APOD</a> to Discord
+# [NASA APOD](https://apod.nasa.gov/apod/astropix.html) to Discord
 Ever wanted to send the APOD to your Discord server ? Juste use this to send every morning (can be changed) the APOD to your server. Best of all ? Automatically translate the APOD for best results in your Discord server !
 
 
