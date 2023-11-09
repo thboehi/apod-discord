@@ -1,6 +1,6 @@
 {
   "name": "astronomy-pic-of-the-day-discord",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Send once a day the APOD from the official NASA API.",
   "main": "server.js",
   "scripts": {
